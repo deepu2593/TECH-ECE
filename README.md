@@ -1,4 +1,4 @@
-# Tech-ECE
+# TECH-ECE
 
 - This repository is for Tech ECE Projects only.
 
